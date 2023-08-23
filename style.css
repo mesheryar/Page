@@ -1,0 +1,134 @@
+#slider{
+	background-image: url(images/1.jpg);
+	height: 600px;
+	width: 100%;
+	background-size: cover;
+}
+.one img{
+	height: 100px;
+	width: 100px;
+	padding: 20px;
+}
+
+ul{
+	list-style-type: none;
+	padding-top: 10px;
+}
+li a{
+	text-decoration: none;
+	color: black;
+}
+li{
+	padding: 20px;
+	font-size: 25px;
+	display: inline;
+}
+li a:hover{
+	color: lightblue;
+}
+nav{
+	background-color:transparent;
+	height: 50px;
+}
+.all{
+	display: flex;
+	justify-content: space-between;
+}
+.divone ul{
+	display: flex;
+	justify-content: space-around;
+}
+.heading h1{
+	color: black;
+	text-align: center;
+	padding-top: 100px;
+	font-size: 40px;
+
+}
+.heading p{
+	text-align:center;
+	font-size: 20px;
+	color: black;
+	
+}
+h1{
+	font-size: 40px
+}
+#sectwo{
+	margin-left: 120px
+}
+#secthree{
+	display: flex;
+	margin-left: 120px;
+
+}
+.lorem2{
+	margin-left: 40px
+}
+.lorem2 button{
+	width: 100px;
+	height: 40px;
+	border-radius: 15px;
+	border-color: green;
+	color: green;
+}
+.lorem2 button:hover{
+	color: white;
+	background-color: black;
+	border-color:red;
+
+}
+.services{
+	margin-left: 120px
+}
+#dives{
+	background-color: black;
+	height: 600px;
+	margin-left: 120px;
+	justify-content: space-around;
+
+
+}
+.pone img{
+	height: 40px;
+	border-radius: 30px;
+	padding-top: 40px;
+	margin-left: 20px;
+}
+.pone{
+	margin-left: 40px;
+	background-color: white;
+	height: 230px;
+	width: 27%;
+	margin-top: 20px;
+	padding-top: 20px;
+	margin-right: 20px;
+	float: left;
+}
+.pone h2, p{
+	margin-left: 20px;
+}
+.pone1{
+	margin-left: 40px;
+	background-color: white;
+	height: 230px;
+	width: 27%;
+	margin-top: 20px;
+	padding-top: 20px;
+	margin-right: 20px;
+	float: left;
+}
+.pone1 h2, p{
+	margin-left: 20px;
+}
+.pone1 img{
+	height: 40px;
+	border-radius: 30px;
+	padding-top: 40px;
+	margin-left: 20px;
+}
+
+
+
+
+
